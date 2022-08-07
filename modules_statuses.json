@@ -1,0 +1,12 @@
+{
+    "AuthorizeNet": true,
+    "Bkash": true,
+    "DPOPayment": true,
+    "Esewa": true,
+    "Midtrains": true,
+    "MPesa": true,
+    "Paytab": true,
+    "Senangpay": true,
+    "Smanager": true,
+    "SquarePay": true
+}
