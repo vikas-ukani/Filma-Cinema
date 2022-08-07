@@ -1,0 +1,20 @@
+1
+00:00:03,000 --> 00:00:15,000
+Subtitle files are supported as .srt, .vtt or .txt format.
+
+2
+00:00:18,000 --> 00:00:28,000
+The subtitle can be formatted to a single row.
+Or multiple rows.
+
+3
+00:00:30,000 --> 00:00:40,000
+The subtitle button is optional as well as the subtitle itself.
+
+4
+00:00:42,000 --> 00:00:54,000
+The subtitle text / font can be CSS  formatted with ease.
+
+5
+00:00:58,000 --> 00:01:05,000
+And much more ...

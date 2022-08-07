@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ul>
+	<li data-thumb-source="content/thumbnails/small-fwd.jpg" data-video-source="[{source:'content/videos2/fwd-480p.mp4', label:'small version'}, {source:'content/videos2/fwd-720p.mp4', label:'hd720'},{source:'content/videos2/fwd-1080p.mp4', label:'hd1080'}]" data-poster-source="content/posters/mp4-poster.jpg" data-subtitle-soruce="[{source:'content/subtitles/english_subtitle.vtt', label:'English'}, {source:'content/subtitles/romanian_subtitle.vtt', label:'Romanian'},{source:'content/subtitles/spanish_subtitle.vtt', label:'Spanish'}]" data-start-at-subtitle="1" data-title="&lt;div data-video-short-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-title&quot;&gt;Multiple Subtitles and Video Quality&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-description&quot;&gt;Each video can contain a short description, the description can be formatted with CSS as you like.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-desc="&lt;div data-video-long-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-dark-video-title-desc&quot;&gt;Multiple Subtitles and Video Quality&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-dark-video-main-description&quot;&gt;Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all videos.&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-link&quot;&gt;For more information about this please follow &lt;a href=&quot;http://www.webdesign-flash.ro/&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-downloadable="no"/>
+	 
+	<li data-thumb-source="content/thumbnails/travel-thumbnail.jpg" data-video-source="content/videos/travel.mp4" data-poster-source="content/posters/travel-poster.jpg" data-title="&lt;div data-video-short-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-title&quot;&gt;Travel is fun&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-description&quot;&gt;This is an mp4 video.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-desc="&lt;div data-video-long-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-dark-video-title-desc&quot;&gt;Travel is fun&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-dark-video-main-description&quot;&gt;Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all videos.&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-link&quot;&gt;For more information about this please follow &lt;a href=&quot;http://www.webdesign-flash.ro/p/royal-3d-coverflow/&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-downloadable="no"/> 
+	
+	<li data-thumb-source="content/thumbnails/small-lora2.jpg" data-video-source="https://www.youtube.com/watch?v=IDZTCLNOfqU" data-poster-source="content/posters/youtube-poster.jpg,content/posters/youtube-poster-mobile.jpg" data-title="&lt;div data-video-short-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-title&quot;&gt;Lora - Youtube video&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-description&quot;&gt;Support for youtube videos, this video is not part of a youtube playlist.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-desc="&lt;div data-video-long-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-dark-video-title-desc&quot;&gt;Lora - Youtube video&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-dark-video-main-description&quot;&gt;Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all videos.&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-link&quot;&gt;For more information about this please follow &lt;a href=&quot;http://www.webdesign-flash.ro/&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-downloadable="no"/> 
+	 
+	<li data-thumb-source="content/thumbnails/party-thumbnail.jpg" data-video-source="content/videos/party.mp4" data-poster-source="content/posters/mp4-poster.jpg,content/posters/mp4-poster-mobile.jpg" data-ads-source="content/videos/ad.mp4" data-ads-page-to-open-url="http://www.webdesign-flash.ro" data-ads-page-target="_blank" data-time-to-hold-ads="4" data-title="&lt;div data-video-short-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-title&quot;&gt;Come to my party&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-description&quot;&gt;My awesome house and trance party.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-desc="&lt;div data-video-long-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-dark-video-title-desc&quot;&gt;Come to my party&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-dark-video-main-description&quot;&gt;Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all videos.&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-link&quot;&gt;For more information about this please follow &lt;a href=&quot;http://www.webdesign-flash.ro/p/horizontal-gridfolio-pro/&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-downloadable="no"/> 
+	 
+	<li data-thumb-source="content/thumbnails/small-lora.jpg" data-video-source="https://www.youtube.com/watch?v=oIHyVibVwVA" data-poster-source="content/posters/youtube-poster.jpg,content/posters/youtube-poster-mobile.jpg" data-title="&lt;div data-video-short-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-title&quot;&gt;Lora - puidor&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-description&quot;&gt;Each video can contain a short description, the description can be formatted with CSS as you like.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-desc="&lt;div data-video-long-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-dark-video-title-desc&quot;&gt;Lora - puidor&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-dark-video-main-description&quot;&gt;Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all videos.&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-link&quot;&gt;For more information about this please follow &lt;a href=&quot;http://www.webdesign-flash.ro/&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-downloadable="no"/> 
+	 
+	<li data-thumb-source="content/thumbnails/small-corina.jpg" data-video-source="https://www.youtube.com/watch?v=iOl3WnsY0sg" data-poster-source="content/posters/youtube-poster.jpg,content/posters/youtube-poster-mobile.jpg" data-title="&lt;div data-video-short-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-title&quot;&gt;Corina - Miss Boboc&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-description&quot;&gt;Each video can contain a short description, the description can be formatted with CSS as you like.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-desc="&lt;div data-video-long-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-dark-video-title-desc&quot;&gt;Corina - Miss Boboc&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-dark-video-main-description&quot;&gt;Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all videos.&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-link&quot;&gt;For more information about this please follow &lt;a href=&quot;http://www.webdesign-flash.ro/&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-downloadable="no"/> 
+	
+	<li data-thumb-source="content/thumbnails/earth-thumbnail.jpg" data-video-source="content/videos/earth.mp4" data-poster-source="content/posters/mp4-poster.jpg,content/posters/mp4-poster-mobile.jpg" data-title="&lt;div data-video-short-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-title&quot;&gt;Our amazing planet&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-thumbnail-description&quot;&gt;Earth from space, we are lucky to be here.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-desc="&lt;div data-video-long-description=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;p class=&quot;fwduvp-dark-video-title-desc&quot;&gt;Our amazing planet&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-dark-video-main-description&quot;&gt;Each video can contain a detailed description, the description can be formatted with CSS as you like. The description window and description button can be disabled individually for each video or globally for all videos.&lt;/p&gt;
+		&lt;p class=&quot;fwduvp-link&quot;&gt;For more information about this please follow &lt;a href=&quot;http://www.webdesign-flash.ro/p/u3dcar/&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt;&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/div&gt;" data-downloadable="no"/>
+
+</ul>
+
+
+

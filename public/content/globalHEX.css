@@ -1,0 +1,470 @@
+/* color CSS 
+
+/* Subtitle */
+.UVPSubtitle{
+	font-family:Arial !important;
+	text-align:center !important;
+	color:#FFFFFF !important;
+	text-shadow: 0px 0px 1px #000000 !important;
+	font-size:20px !important;
+	line-height:24px !important;
+    font-weight:600 !important;
+	margin:0px !important;
+	padding:0px !important;
+	margin-left:20px !important;
+	margin-right:20px !important;
+	margin-bottom:12px !important;
+}
+
+/* 
+	###########################
+		  minimal dark 
+	##########################
+*/
+.minimalDarkCategoriesTitle{
+	color:#BBBBBB;
+	margin:5px;
+	margin-top:6px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.minimalDarkCategoriesType{
+	color:#BBBBBB;
+	margin:5px;
+	margin-top:-4px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.minimalDarkCategoriesTypeIn{
+	color:#BBBBBB;
+}
+
+.minimalDarkCategoriesDescription{
+	color:#BBBBBB;
+	margin:5px;
+	margin-top:-4px;
+	line-height:16px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.minimalDarkThumbnailTitle{
+	color:#0099FF;
+	line-height:16px;
+	margin:0px;
+	margin-top:2px;
+	margin-bottom:4px;
+	padding:0px;
+}
+
+.minimalDarkThumbnailDesc{
+	color:#888888;
+	line-height:16px;
+	margin:0px;
+	padding:px;
+}
+
+.minimalDarkVideoTitleDesc{
+	margin:12px;
+	margin-bottom:8px;
+	color:#FFFFFF;
+}
+
+.minimalDarkVideoMainDesc{
+	margin:10px;
+	margin-top:0px;
+	margin-bottom:8px;
+	line-height:16px;
+	color:#888888;
+}
+
+.minimalDarkLink{
+	margin:12px;
+	margin-top:0px;
+	margin-bottom:8px;
+	line-height:16px;
+	color:#888888;
+}
+
+.minimialDarkBold{
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+.minimalDarkLink a:link    {color:#0099FF;}
+.minimalDarkLink a:visited {color:#0099FF;}
+.minimalDarkLink a:hover   {color:#DDDDDD;}
+.minimalDarkLink a:active  {color:0099FF;}
+
+
+/* 
+	###########################
+		  minimal white 
+	##########################
+*/
+.minimalWhiteCategoriesTitle{
+	color:#666666;
+	margin:5px;
+	margin-top:6px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.minimalWhiteCategoriesType{
+	color:#666666;
+	margin:5px;
+	margin-top:-4px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.minimalWhiteCategoriesTypeIn{
+	color:#888888;
+}
+
+.minimalWhiteCategoriesDescription{
+	color:#666666;
+	margin:5px;
+	margin-top:-4px;
+	line-height:16px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.minimalWhiteThumbnailTitle{
+	color:#0099FF;
+	line-height:16px;
+	margin:0px;
+	margin-top:2px;
+	margin-bottom:4px;
+	padding:0px;
+}
+
+.minimalWhiteThumbnailDesc{
+	color:#919191;
+	line-height:16px;
+	margin:0px;
+	padding:px;
+}
+
+.minimalWhiteVideoTitleDesc{
+	margin:12px;
+	margin-bottom:8px;
+	color:#000000;
+}
+
+.minimalWhiteVideoMainDesc{
+	margin:10px;
+	margin-top:0px;
+	margin-bottom:8px;
+	line-height:16px;
+	color:#919191;
+}
+
+.minimalWhiteLink{
+	margin:12px;
+	margin-top:0px;
+	margin-bottom:8px;
+	line-height:16px;
+	color:#919191;
+}
+
+.minimalWhiteBold{
+	font-weight:bold;
+	color:#000000;
+}
+
+.minimalWhiteLink a:link    {color:#0099FF;}
+.minimalWhiteLink a:visited {color:#0099FF;}
+.minimalWhiteLink a:hover   {color:#000000;}
+.minimalWhiteLink a:active  {color:0099FF;}
+
+/* 
+	###########################
+		 classic dark 
+	##########################
+*/
+.classicDarkCategoriesTitle{
+	color:#BBBBBB;
+	margin:5px;
+	margin-top:6px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.classicDarkCategoriesType{
+	color:#BBBBBB;
+	margin:5px;
+	margin-top:-4px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.classicDarkCategoriesTypeIn{
+	color:#BBBBBB;
+}
+
+.classicDarkCategoriesDescription{
+	color:#BBBBBB;
+	margin:5px;
+	margin-top:-4px;
+	line-height:16px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.classicDarkThumbnailTitle{
+	color:#FFFFFF;
+	line-height:16px;
+	margin:0px;
+	margin-top:2px;
+	margin-bottom:4px;
+	padding:0px;
+}
+
+.classicDarkThumbnailDesc{
+	color:#bdbdbd;
+	line-height:16px;
+	margin:0px;
+	padding:px;
+}
+
+.classicDarkVideoTitleDesc{
+	margin:12px;
+	margin-bottom:8px;
+	color:#FFFFFF;
+}
+
+.classicDarkVideoMainDesc{
+	margin:10px;
+	margin-top:0px;
+	margin-bottom:8px;
+	line-height:16px;
+	color:#bdbdbd;
+}
+
+.classicDarkLink{
+	margin:12px;
+	margin-top:0px;
+	margin-bottom:8px;
+	line-height:16px;
+	color:#bdbdbd;
+}
+
+.minimialDarkBold{
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+.classicDarkLink a:link    {color:#0099FF;}
+.classicDarkLink a:visited {color:#0099FF;}
+.classicDarkLink a:hover   {color:#DDDDDD;}
+.classicDarkLink a:active  {color:0099FF;}
+
+/* 
+	###########################
+		  classic white 
+	##########################
+*/
+.classicWhiteCategoriesTitle{
+	color:#494949;
+	margin:5px;
+	margin-top:6px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.classicWhiteCategoriesType{
+	color:#494949;
+	margin:5px;
+	margin-top:-4px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.classicWhiteCategoriesTypeIn{
+	color:#919191;
+}
+
+.classicWhiteCategoriesDescription{
+	color:#494949;
+	margin:5px;
+	margin-top:-4px;
+	line-height:16px;
+	line-height:16px;
+	font-weight:100;
+}
+
+.classicWhiteThumbnailTitle{
+	color:#0099FF;
+	line-height:16px;
+	margin:0px;
+	margin-top:2px;
+	margin-bottom:4px;
+	padding:0px;
+}
+
+.classicWhiteThumbnailDesc{
+	color:#777777;
+	line-height:16px;
+	margin:0px;
+	padding:px;
+}
+
+.classicWhiteVideoTitleDesc{
+	margin:12px;
+	margin-bottom:8px;
+	color:#000000;
+}
+
+.classicWhiteVideoMainDesc{
+	margin:10px;
+	margin-top:0px;
+	margin-bottom:8px;
+	line-height:16px;
+	color:#777777;
+}
+
+.classicWhiteLink{
+	margin:12px;
+	margin-top:0px;
+	margin-bottom:8px;
+	line-height:16px;
+	color:#777777;
+}
+
+.classicWhiteBold{
+	font-weight:bold;
+	color:#000000;
+}
+
+.classicWhiteLink a:link    {color:#0099FF;}
+.classicWhiteLink a:visited {color:#0099FF;}
+.classicWhiteLink a:hover   {color:#000000;}
+.classicWhiteLink a:active  {color:0099FF;}
+
+/* Annotations */
+.UVPAnnotationNormal{
+	font-family:Arial !important;
+	font-size:14px !important;
+	width: 290px !important;
+	padding:10px !important;
+	padding-top:6px !important;
+	padding-bottom:6px !important;
+	color:#FFFFFF !important;
+	background: rgba(31, 31, 31, 1) !important;
+}
+
+.UVPAnnotationLinkNormal{
+	font-family:Arial !important;
+	font-size:14px !important;
+	width: 320px !important;
+	padding:10px !important;
+	padding-top:6px !important;
+	padding-bottom:6px !important;
+	color:#000000 !important;
+	line-height:20px !important;
+	background: rgba(0,153,255,1) !important;
+}
+
+.UVPAnnotationLinkSelected{
+	font-family:Arial !important;
+	font-size:14px !important;
+	width: 320px !important;
+	padding:10px !important;
+	padding-top:6px !important;
+	padding-bottom:6px !important;
+	color:#FFFFFF !important;
+	line-height:20px !important;
+	background: rgba(31, 31, 31, 1) !important;
+}
+
+.UVPAnnotationJavascriptNormal{
+	font-family:Arial !important;
+	font-size:14px !important;
+	width: 320px !important;
+	padding:10px !important;
+	padding-top:6px !important;
+	padding-bottom:6px !important;
+	color:#000000 !important;
+	line-height:20px !important;
+	background: rgba(255, 255, 255, 1) !important;
+}
+
+.UVPAnnotationJavascriptSelected{
+	font-family:Arial !important;
+	font-size:14px !important;
+	width: 320px !important;
+	padding:10px !important;
+	padding-top:6px !important;
+	padding-bottom:6px !important;
+	color:#FFFFFF !important;
+	line-height:20px !important;
+	background: rgba(0,153,255,1) !important;
+}
+
+.UVPAnnotationCSSNormal{
+	font-family:Arial !important;
+	font-size: 14px;
+	text-align: center !important;
+	width: 280px !important;
+	padding:10px !important;
+	padding-top:6px !important;
+	padding-bottom:6px !important;
+	color:#FFFFFF !important;
+	line-height:20px !important;
+	background: rgba(0,0,0, .8) !important;
+}
+
+.UVPAnnotationCSSNormal p{
+	padding:0px !important;
+	margin:0px !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important; 
+}
+
+.UVPAnnotationAPINormal{
+	font-family:Arial !important;
+	font-size:14px !important;
+	text-align:center !important;
+	width: 370px !important;
+	padding:6px !important;
+	color:#FFFFFF !important;
+	background: rgba(31, 31, 31, 1) !important;
+}
+
+.UVPAnnotationPlayNormal{
+	font-family:Arial !important;
+	text-align:center !important;
+	width: 160px !important;
+	padding:10px !important;
+	padding-top:6px !important;
+	padding-bottom:6px !important;
+	color:#000000 !important;
+	line-height:20px !important;
+	border-style: solid !important;
+    border-width: 1px !important;
+	border-color: #999999 !important;
+	border-radius:8px !important;
+	background: rgba(255, 255, 255, 1) !important;
+	box-shadow: 1px 1px 1px #999999 !important;
+}
+
+.UVPAnnotationPlaySelected{
+	font-family:Arial !important;
+	text-align:center !important;
+	width: 160px !important;
+	padding:10px !important;
+	padding-top:6px !important;
+	padding-bottom:6px !important;
+	color:#FFFFFF !important;
+	line-height:20px !important;
+	border-style: solid !important;
+    border-width: 1px !important;
+	border-color: #FFFFFF !important;
+	border-radius:8px !important;
+	background: rgba(0,153,255,1) !important;
+	box-shadow: 1px 1px 1px #999999 !important;
+}
